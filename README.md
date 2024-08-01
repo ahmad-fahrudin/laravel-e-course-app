@@ -6,12 +6,6 @@
 
 <p align="center">Dibuat Menggunakan Framework Laravel Versi 9.</p>
 <div align="center">
-
-[![All Contributors](https://img.shields.io/github/contributors/fikrisuheri/laravel-toko-online-anime-store)](https://github.com/fikrisuheri/laravel-e-course-app/graphs/contributors)
-![GitHub last commit](https://img.shields.io/github/last-commit/fikrisuheri/laravel-e-course-app.svg)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fikrisuheri/laravel-e-course-app)
-</div>
-
 ## DIMOHON UNTUK TIDAK DIPERJUALBELIKAN !
 
 ## Fitur apa saja yang tersedia di Aplikasi Ecourse Laravel?
@@ -77,15 +71,6 @@ php artisan serve
 ## Contributing
 APlikasi Ini belum beres sepenuhnya, silahkan jika ingin menambah fitur atau memperbaiki bug pada aplikasi ini.
 
-
-## Author
-
-- Facebook : <a href="https://web.facebook.com/ahmad.ari.9847/"> FIKRI SUHERI</a>
-- INSTAGRAM : <a href="https://www.instagram.com/fikrisuheri__"> FIKRI SUHERI</a>
-- Terima Jasa Pembuatan Aplikasi Web Bisa Hubungi Kontak Diatas Atau Whatsapp Ke 081222627526
-## Donation
-
-You can support Me On [Saweria](https://saweria.co/fikrisuheri) Or [Traktee](https://trakteer.id/fikri-suheri)
 
 ## Preview
 
